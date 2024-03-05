@@ -1,0 +1,38 @@
+C:\Users\Vadember\Desktop\git saves\Visual Studio Project\Visual Studio FInal assignment\Visual Studio FInal assignment\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Vadember\Desktop\git saves\Visual Studio Project\Visual Studio FInal assignment\Visual Studio FInal assignment\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Vadember\Desktop\git saves\Visual Studio Project\Visual Studio FInal assignment\Visual Studio FInal assignment\bin\Debug\netcoreapp3.1\Visual Studio FInal assignment.exe
+C:\Users\Vadember\Desktop\git saves\Visual Studio Project\Visual Studio FInal assignment\Visual Studio FInal assignment\bin\Debug\netcoreapp3.1\Visual Studio FInal assignment.deps.json
+C:\Users\Vadember\Desktop\git saves\Visual Studio Project\Visual Studio FInal assignment\Visual Studio FInal assignment\bin\Debug\netcoreapp3.1\Visual Studio FInal assignment.runtimeconfig.json
+C:\Users\Vadember\Desktop\git saves\Visual Studio Project\Visual Studio FInal assignment\Visual Studio FInal assignment\bin\Debug\netcoreapp3.1\Visual Studio FInal assignment.runtimeconfig.dev.json
+C:\Users\Vadember\Desktop\git saves\Visual Studio Project\Visual Studio FInal assignment\Visual Studio FInal assignment\bin\Debug\netcoreapp3.1\Visual Studio FInal assignment.dll
+C:\Users\Vadember\Desktop\git saves\Visual Studio Project\Visual Studio FInal assignment\Visual Studio FInal assignment\bin\Debug\netcoreapp3.1\Visual Studio FInal assignment.pdb
+C:\Users\Vadember\Desktop\git saves\Visual Studio Project\Visual Studio FInal assignment\Visual Studio FInal assignment\bin\Debug\netcoreapp3.1\Visual Studio FInal assignment.Views.dll
+C:\Users\Vadember\Desktop\git saves\Visual Studio Project\Visual Studio FInal assignment\Visual Studio FInal assignment\bin\Debug\netcoreapp3.1\Visual Studio FInal assignment.Views.pdb
+C:\Users\Vadember\Desktop\git saves\Visual Studio Project\Visual Studio FInal assignment\Visual Studio FInal assignment\obj\Debug\netcoreapp3.1\Visual Studio FInal assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vadember\Desktop\git saves\Visual Studio Project\Visual Studio FInal assignment\Visual Studio FInal assignment\obj\Debug\netcoreapp3.1\Visual Studio FInal assignment.AssemblyInfoInputs.cache
+C:\Users\Vadember\Desktop\git saves\Visual Studio Project\Visual Studio FInal assignment\Visual Studio FInal assignment\obj\Debug\netcoreapp3.1\Visual Studio FInal assignment.AssemblyInfo.cs
+C:\Users\Vadember\Desktop\git saves\Visual Studio Project\Visual Studio FInal assignment\Visual Studio FInal assignment\obj\Debug\netcoreapp3.1\Visual Studio FInal assignment.csproj.CoreCompileInputs.cache
+C:\Users\Vadember\Desktop\git saves\Visual Studio Project\Visual Studio FInal assignment\Visual Studio FInal assignment\obj\Debug\netcoreapp3.1\Visual Studio FInal assignment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vadember\Desktop\git saves\Visual Studio Project\Visual Studio FInal assignment\Visual Studio FInal assignment\obj\Debug\netcoreapp3.1\Visual Studio FInal assignment.RazorAssemblyInfo.cache
+C:\Users\Vadember\Desktop\git saves\Visual Studio Project\Visual Studio FInal assignment\Visual Studio FInal assignment\obj\Debug\netcoreapp3.1\Visual Studio FInal assignment.RazorAssemblyInfo.cs
+C:\Users\Vadember\Desktop\git saves\Visual Studio Project\Visual Studio FInal assignment\Visual Studio FInal assignment\obj\Debug\netcoreapp3.1\staticwebassets\Visual Studio FInal assignment.StaticWebAssets.Manifest.cache
+C:\Users\Vadember\Desktop\git saves\Visual Studio Project\Visual Studio FInal assignment\Visual Studio FInal assignment\obj\Debug\netcoreapp3.1\staticwebassets\Visual Studio FInal assignment.StaticWebAssets.xml
+C:\Users\Vadember\Desktop\git saves\Visual Studio Project\Visual Studio FInal assignment\Visual Studio FInal assignment\obj\Debug\netcoreapp3.1\scopedcss\bundle\Visual Studio FInal assignment.styles.css
+C:\Users\Vadember\Desktop\git saves\Visual Studio Project\Visual Studio FInal assignment\Visual Studio FInal assignment\obj\Debug\netcoreapp3.1\Visual Studio FInal assignment.TagHelpers.input.cache
+C:\Users\Vadember\Desktop\git saves\Visual Studio Project\Visual Studio FInal assignment\Visual Studio FInal assignment\obj\Debug\netcoreapp3.1\Visual Studio FInal assignment.TagHelpers.output.cache
+C:\Users\Vadember\Desktop\git saves\Visual Studio Project\Visual Studio FInal assignment\Visual Studio FInal assignment\obj\Debug\netcoreapp3.1\Visual Studio FInal assignment.RazorCoreGenerate.cache
+C:\Users\Vadember\Desktop\git saves\Visual Studio Project\Visual Studio FInal assignment\Visual Studio FInal assignment\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Vadember\Desktop\git saves\Visual Studio Project\Visual Studio FInal assignment\Visual Studio FInal assignment\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Vadember\Desktop\git saves\Visual Studio Project\Visual Studio FInal assignment\Visual Studio FInal assignment\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Vadember\Desktop\git saves\Visual Studio Project\Visual Studio FInal assignment\Visual Studio FInal assignment\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Vadember\Desktop\git saves\Visual Studio Project\Visual Studio FInal assignment\Visual Studio FInal assignment\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Vadember\Desktop\git saves\Visual Studio Project\Visual Studio FInal assignment\Visual Studio FInal assignment\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Vadember\Desktop\git saves\Visual Studio Project\Visual Studio FInal assignment\Visual Studio FInal assignment\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Vadember\Desktop\git saves\Visual Studio Project\Visual Studio FInal assignment\Visual Studio FInal assignment\obj\Debug\netcoreapp3.1\Visual Studio FInal assignment.RazorTargetAssemblyInfo.cache
+C:\Users\Vadember\Desktop\git saves\Visual Studio Project\Visual Studio FInal assignment\Visual Studio FInal assignment\obj\Debug\netcoreapp3.1\Visual Studio FInal assignment.RazorTargetAssemblyInfo.cs
+C:\Users\Vadember\Desktop\git saves\Visual Studio Project\Visual Studio FInal assignment\Visual Studio FInal assignment\obj\Debug\netcoreapp3.1\Visual Studio FInal assignment.Views.pdb
+C:\Users\Vadember\Desktop\git saves\Visual Studio Project\Visual Studio FInal assignment\Visual Studio FInal assignment\obj\Debug\netcoreapp3.1\Visual Studio FInal assignment.dll
+C:\Users\Vadember\Desktop\git saves\Visual Studio Project\Visual Studio FInal assignment\Visual Studio FInal assignment\obj\Debug\netcoreapp3.1\Visual Studio FInal assignment.pdb
+C:\Users\Vadember\Desktop\git saves\Visual Studio Project\Visual Studio FInal assignment\Visual Studio FInal assignment\obj\Debug\netcoreapp3.1\Visual Studio FInal assignment.genruntimeconfig.cache
+C:\Users\Vadember\Desktop\git saves\Visual Studio Project\Visual Studio FInal assignment\Visual Studio FInal assignment\obj\Debug\netcoreapp3.1\Visual Studio FInal assignment.csproj.CopyComplete
+C:\Users\Vadember\Desktop\git saves\Visual Studio Project\Visual Studio FInal assignment\Visual Studio FInal assignment\obj\Debug\netcoreapp3.1\Visual Studio FInal assignment.csproj.AssemblyReference.cache
